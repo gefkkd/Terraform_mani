@@ -1,9 +1,9 @@
 # Terraform_mani
 # Requirements
 
-# To stop ec2 instance use lambda function
+# To start ec2 instance use lambda function
 
-#Instance tagname
+# Instance tagname
 
 #Name = demo
 
