@@ -1,4 +1,3 @@
-# Terraform_mani
 # Requirements
 
 # To start ec2 instance use lambda function
