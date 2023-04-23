@@ -1,5 +1,5 @@
-accessKey           ="AKIAYDYGJFAEVRZFOXUI"
-secretKey           ="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"
+accessKey           =""
+secretKey           =""
 region              ="ap-south-1"
 lambdaname          ="lambda-aws-ec2-start"
 tagName             ="office-hours"

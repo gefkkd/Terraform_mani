@@ -1,5 +1,5 @@
-accessKey           ="AKIAYDYGJFAERUKSQGEK"
-secretKey           ="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"
+accessKey           =""
+secretKey           =""
 region              ="ap-south-1"
 lambdaname          ="Nihanth_lambda-aws-ec2-snapshot"
 tagName             ="prod-servers"
